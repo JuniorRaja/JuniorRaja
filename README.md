@@ -6,8 +6,9 @@ I’m a full-stack developer based out of Chennai (India) with experience in bui
 
 Currently I'm learning MERN Stack ⌛
 
-<img src="https://komarev.com/ghpvc/?username=JuniorRaja&style=for-the-badge&color=blueviolet" alt=""/>
-  ![Visitor Count](https://profile-counter.glitch.me/{JuniorRaja}/count.svg)
+<!-- <img src="https://komarev.com/ghpvc/?username=JuniorRaja&style=for-the-badge&color=blueviolet" alt=""/> -->
+<img src="![Visitor Count](https://profile-counter.glitch.me/{JuniorRaja}/count.svg)" alt=""/>
+  
    <h1>### My Tech Stack ###</h1>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
