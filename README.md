@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <sub>
-     Software Engineer · Full-Stack · Systems-oriented  | Based on Chennai, Indi
+     Senior Full Stack Software Engineer · Web & APIs · Systems-oriented · Based on Chennai, India
   </sub>
 </p>
 <p  align="center">
