@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:0969da,100:1f6feb&text=Prasanna%20Rajendran%20(PR)&fontSize=44&fontAlignY=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:30363d,100:484f58&text=Prasanna%20Rajendran%20(PR)&fontSize=44&fontAlignY=40&fontColor=ffffff&animation=twinkling" />
 </p>
 <p align="center">
   <sub>
@@ -137,22 +137,11 @@ I prefer **small, complete systems** over large unfinished ideas.
   </a>
 
 ---
-
-<br/>
-<br/>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0969da,100:1f6feb"
-  />
-</p>
-
 <p align="center">
   <sub>
     Learning. Building. Exploring. ⚙️
   </sub>
 </p>
-
 <p align="center">
   <a href="https://prasannar.com" style="text-decoration:none;">
     🌐 Website
@@ -162,3 +151,7 @@ I prefer **small, complete systems** over large unfinished ideas.
     💼 LinkedIn
   </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:30363d,100:484f58" />
+</p>
+
